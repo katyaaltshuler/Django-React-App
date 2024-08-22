@@ -5,6 +5,6 @@ djangorestframework
 djangorestframework-simplejwt
 PyJWT
 pytz
-sqlparsetouc
+sqlparse
 psycopg2-binary
 python-dotenv
